@@ -1,13 +1,33 @@
 {
-  "name": "cpmonokai",
+  "name": "cpmonokai-vscode-theme",
   "displayName": "CP Monokai Theme",
-  "description": "Check Point theme for VS Code based on Monokai",
+  "description": "Check Point devs theme for VS Code based on Monokai",
   "version": "0.0.1",
+  "publisher": "Alex Segal<a4segal@gmail.com>",
+  "license": "MIT",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#1e1f1c",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a4segal/cpmonokai-vscode-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/a4segal/cpmonokai-vscode-theme/issues"
+  },
   "engines": {
-    "vscode": "^1.80.0"
+    "vscode": "^1.43.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "cp",
+    "dark",
+    "monokai"
   ],
   "contributes": {
     "themes": [
