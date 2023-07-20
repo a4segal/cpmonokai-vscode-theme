@@ -1,0 +1,21 @@
+{
+  "name": "cpmonokai",
+  "displayName": "CP Monokai Theme",
+  "description": "Check Point theme for VS Code based on Monokai",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "CP Monokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cpmonokai-color-theme.json"
+      }
+    ]
+  }
+}
