@@ -101,11 +101,11 @@
 		"terminal.ansiBrightCyan": "#66D9EF",
 		"terminal.ansiBrightWhite": "#f8f8f2",
 		// enable borders to improve UX
-		"activityBar.border": "#1e1f1c80",
-		"sideBar.border": "#1e1f1c",
-		"sideBarSectionHeader.border": "#1e1f1c80",
-		"tab.border": "#1e1f1c",
-		"titleBar.border": "#1e1f1c",
+		"activityBar.border": "#414339",
+		"sideBar.border": "#414339",
+		"sideBarSectionHeader.border": "#414339",
+		"tab.activeBorderTop": "#AC6218",
+		"titleBar.border": "#414339",
 	},
 	"tokenColors": [
 		{
